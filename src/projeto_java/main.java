@@ -2,7 +2,7 @@ package projeto_java;
 
 import java.util.Locale;
 
-public class program {
+public class main {
 
 	public static void main (String[] args) {
 		
